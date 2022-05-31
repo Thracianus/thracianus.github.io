@@ -20,6 +20,9 @@
 <button type="reset">sifirla</button>
 <br>
 <input type="submit" value="submit"/>
+    <br>
+    <input type="file" id="myFile" name="filename">
+  <input type="submit">
 
 
 </form>
