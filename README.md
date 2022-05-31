@@ -16,7 +16,7 @@
 <input type="text" id="name" name="name">
 <br><br>
 <label for="parola">Parola</label>
-<input type="text "id="pass" name="parola">
+<input type="text" id="pass" name="parola">
 <button type="reset">sifirla</button>
 <br>
 <input type="submit" value="submit"/>
