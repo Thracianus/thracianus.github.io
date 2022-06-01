@@ -9,7 +9,8 @@
     <h1>Welcome</h1>
     <br>
     <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
-    Secim
+    <br>
+    Check
 <input type="radio">
 <br>
 <form>
