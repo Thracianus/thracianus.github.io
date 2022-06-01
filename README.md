@@ -8,7 +8,7 @@
 <body>
     <h1>Welcome</h1>
     <br>
-    <img src=https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg>
+    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
     Secim
 <input type="radio">
 <br>
