@@ -6,7 +6,7 @@
         Selamlar
     </title>
         <link rel="stylesheet" href="style.css"</link>
-        </head
+    </head>
 
 <body>
     <h1>Welcome</h1>
