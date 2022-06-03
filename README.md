@@ -1,9 +1,12 @@
 # thracianus.github.io
 # deneme.github.io
 <html>
+    <head>
     <title>
         Selamlar
     </title>
+        <link rel="stylessheet" href="style.css"</link>
+        </head
 
 <body>
     <h1>Welcome</h1>
