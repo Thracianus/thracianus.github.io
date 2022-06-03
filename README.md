@@ -24,7 +24,7 @@
 <input type="text" id="pass" name="parola">
 <button type="reset">Reset</button>
 <br>
-<input type="submit" value="submit"/>
+<input type="submit" value="Sign in"/>
     <br>
     <input type="file" id="myFile" name="filename">
   <input type="submit">
