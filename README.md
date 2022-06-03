@@ -17,12 +17,12 @@
 <input type="radio">
 <br>
 <form>
-<label for="name">Kullanici adi</label>
+<label for="name">Username</label>
 <input type="text" id="name" name="name">
 <br><br>
-<label for="parola">Parola</label>
+<label for="parola">Password</label>
 <input type="text" id="pass" name="parola">
-<button type="reset">sifirla</button>
+<button type="reset">Reset</button>
 <br>
 <input type="submit" value="submit"/>
     <br>
