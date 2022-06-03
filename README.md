@@ -20,7 +20,7 @@
 <label for="name">Username</label>
 <input type="text" id="name" name="name">
 <br>
-<label for="parola">Password</label>
+<label for="parola">Password </label>
 <input type="text" id="pass" name="parola">
     <br>
 <button type="reset">Reset</button>
