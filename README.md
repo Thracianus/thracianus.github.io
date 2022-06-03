@@ -22,6 +22,7 @@
 <br>
 <label for="parola">Password</label>
 <input type="text" id="pass" name="parola">
+    <br>
 <button type="reset">Reset</button>
 <br>
 <input type="submit" value="Sign in"/>
