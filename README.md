@@ -5,7 +5,7 @@
     <title>
         Selamlar
     </title>
-        <link rel="stylesheet" href="style.css"</link>
+        <link rel="stylesheet" href="style.css">
     </head>
 
 <body>
