@@ -19,7 +19,7 @@
 <form>
 <label for="name">Username</label>
 <input type="text" id="name" name="name">
-<br><br>
+<br>
 <label for="parola">Password</label>
 <input type="text" id="pass" name="parola">
 <button type="reset">Reset</button>
