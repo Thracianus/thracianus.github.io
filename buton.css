@@ -1,0 +1,19 @@
+
+body{
+    background-color: azure;
+
+}
+p{
+    padding: 10%;
+}
+div{
+    margin: 20%;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    border-radius: 10%;
+}
+.btn{
+    padding:5px;
+    margin-bottom: 15px;
+}
