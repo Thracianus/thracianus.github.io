@@ -10,7 +10,8 @@ fieldset{
     border: 0;
     color: rgb(255, 255, 255);
     text-align: center;
-    background-color: rgb(92, 62, 156);
+   /* background-color: rgb(92, 62, 156);*/
+    background: linear-gradient(45deg, blue,green);
     border-radius: 20px;
 
 }
